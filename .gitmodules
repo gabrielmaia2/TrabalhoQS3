@@ -1,3 +1,9 @@
 [submodule "bookkeeper"]
 	path = bookkeeper
 	url = https://github.com/gabrielmaia2/bookkeeper
+[submodule "apache-karaf"]
+	path = apache-karaf
+	url = https://github.com/gabrielmaia2/apache-karaf
+[submodule "apache-zookeeper"]
+	path = apache-zookeeper
+	url = https://github.com/gabrielmaia2/apache-zookeeper
