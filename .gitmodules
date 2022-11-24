@@ -1,0 +1,9 @@
+[submodule "bookkeeper"]
+	path = bookkeeper
+	url = https://github.com/gabrielmaia2/bookkeeper
+[submodule "cxf"]
+	path = cxf
+	url = https://github.com/gabrielmaia2/cxf
+[submodule "wicket"]
+	path = wicket
+	url = https://github.com/gabrielmaia2/wicket
